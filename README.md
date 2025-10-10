@@ -12,6 +12,19 @@
   <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="180" alt="Siraj's Avatar"/>
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" alt="React Logo"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itssonu/itssonu/main/coding-illustration.svg" width="400" alt="Siraj coding illustration"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation"/>
+</p>
+
+
 ---
 
 ### 🚀 About Me
