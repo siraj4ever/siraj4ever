@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hey there, I'm <b>Siraj Aalam</b>
+  👋 Hey there, I'm <b>Siraj</b>
 </h1>
 
 <h3 align="center">
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I’m **Siraj Aalam**, a **Full Stack Developer** with 3+ years of experience building fast, scalable, and user-friendly web applications using modern JavaScript frameworks and backend technologies.  
+I’m **Siraj**, a **Full Stack Developer** with 3+ years of experience building fast, scalable, and user-friendly web applications using modern JavaScript frameworks and backend technologies.  
 
 💡 Passionate about creating smooth digital experiences and exploring innovative web solutions.  
 🌱 Currently learning more about **AWS EC2** and **S3** (basic knowledge).  
@@ -70,7 +70,7 @@ I’m **Siraj Aalam**, a **Full Stack Developer** with 3+ years of experience bu
   <a href="https://www.linkedin.com/in/siraj-aalam/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/sirajaalam">
+  <a href="https://github.com/siraj4ever">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
