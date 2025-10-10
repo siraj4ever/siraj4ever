@@ -9,13 +9,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="180" alt="Siraj's Avatar"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation"/>
 </p>
-
 
 ---
 
