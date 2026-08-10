@@ -1,82 +1,93 @@
-<h1 align="center">
-  👋 Hey there, I'm <b>Siraj</b>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Full Stack Developer | React.js | Next.js | Node.js | PostgreSQL | MongoDB
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%20There,%20I'm%20Siraj%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20crafting%20fast,%20scalable%20web%20experiences&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation"/>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Exploring+AWS+%26+Cloud+Architecture" alt="Typing SVG" />
 
-### 🚀 About Me
+<br/><br/>
 
-I’m **Siraj**, a **Full Stack Developer** with 3+ years of experience building fast, scalable, and user-friendly web applications using modern JavaScript frameworks and backend technologies.  
+<a href="https://www.linkedin.com/in/siraj-aalam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/siraj4ever">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=siraj4ever&style=for-the-badge&color=0f0c29&labelColor=302b63" alt="profile views"/>
 
-💡 Passionate about creating smooth digital experiences and exploring innovative web solutions.  
-🌱 Currently learning more about **AWS EC2** and **S3** (basic knowledge).  
-⚙️ Focused on writing clean, efficient, and maintainable code.  
-🤝 Always open for discussions and collaborations on **frontend, backend, or full stack** projects.
+</div>
 
----
+<br/>
 
-### 🧩 Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F0FF"/>
 
-#### 🖥️ Frontend  
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+## 🚀 About Me
 
-#### ⚙️ Backend  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+```javascript
+const siraj = {
+  role: "Full Stack Developer",
+  experience: "3+ years",
+  stack: ["React.js", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "MongoDB", "Supabase"],
+  currentlyLearning: ["AWS EC2", "AWS S3", "AWS RDS", "AWS SQS", "AWS SES", "AWS Lambda"],
+  focus: "Clean, efficient, maintainable code",
+  motto: "Code. Learn. Innovate. Repeat. ⚡"
+};
+```
 
-#### 🗃️ Database  
-<p align="center">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+- 💡 Passionate about building smooth, intuitive digital experiences
+- 🌱 Currently deep-diving into **AWS EC2 & S3**
+- 🤝 Open to collaborations on frontend, backend, or full-stack projects
+- ⚡ Fun fact — I debug faster with coffee ☕ in hand
 
-#### ☁️ DevOps & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F0FF"/>
 
----
+## 🧩 Tech Arsenal
 
-### 🌐 Connect with Me
+<div align="center">
 
-<p align="center">
-  <a href="mailto:itzsiraj143@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/siraj-aalam/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/siraj4ever">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,html,css&theme=dark" />
 
----
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<p align="center">
-  ⭐ <b>"Code. Learn. Innovate. Repeat."</b> ⭐
-</p>
+### 🗃️ Database
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
+
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,postman,figma,git,vscode&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/-Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F0FF"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siraj4ever&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F0FF"/>
+
+<div align="center">
+
+### 🌐 Let's Connect
+
+<a href="https://www.linkedin.com/in/siraj-aalam/">
+  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/siraj4ever">
+  <img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ **"Code. Learn. Innovate. Repeat."** ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
+</div>
