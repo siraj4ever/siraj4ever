@@ -27,9 +27,8 @@
 ```javascript
 const siraj = {
   role: "Full Stack Developer",
-  experience: "3+ years",
-  stack: ["React.js", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "MongoDB", "Supabase"],
-  currentlyLearning: ["AWS EC2", "AWS S3", "AWS RDS", "AWS SQS", "AWS SES", "AWS Lambda"],
+  experience: "4+ years",
+  stack: ["React.js", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "MongoDB", "Supabase", "AWS"],
   focus: "Clean, efficient, maintainable code",
   motto: "Code. Learn. Innovate. Repeat. ⚡"
 };
